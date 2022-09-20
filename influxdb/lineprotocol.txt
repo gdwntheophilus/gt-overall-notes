@@ -1,0 +1,1 @@
+measurement[,tagname=tagvalue] field1=value[,field2=value] timestamp

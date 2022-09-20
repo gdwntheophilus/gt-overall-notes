@@ -1,0 +1,9 @@
+we have 4 parameters
+ - measurement
+ - tags 
+ - fields 
+ - timestamp
+
+save data as points, which can be considered as a row in a rdbms of a database
+
+note: tag is optional 
